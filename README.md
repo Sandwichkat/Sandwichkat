@@ -1,5 +1,5 @@
-- 👋 Hi, over there.
-- 👀 I’m interested in developing silly things
+
+- I’m interested in developing silly things 🔥🔥🔥
 - 🌱 I’m currently learning C++
 - Contact me on Discord via @sandwichkat
 <!---
